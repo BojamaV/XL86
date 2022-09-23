@@ -4,6 +4,8 @@ XL86 is a small computing language that can preform small tasks.
 # Installation
 requirements: Python3
 
+install here: https://www.python.org/
+
 git clone https://github.com/BojamaV/XL86.git
 
 cd XL86
