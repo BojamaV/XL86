@@ -15,6 +15,6 @@ python3 shell.py (This is the compiler XL86)
 
 python3 help.py (Instructions/Guide for XL86)
 
-I dont really want to add much i might add the run option where you can execute files of the XL86 code on the shell but that will be only for the repl unless you make something work
+I dont really want to add much i might add the run option where you can execute files of the XL86 code on the shell but that will be only for the repl unless you make something work locally i assume.
 
 enjoy!
