@@ -22,8 +22,19 @@ enjoy!
 
 # Language
 
-the syntax for LX86 is required to be exact, everything is formatted in ALL CAPS
+the syntax for XL86 is required to be exact, everything is formatted in ALL CAPS
 
-print: ; PRINT("hello world")
+print: PRINT("hello world")
+
+strings: "hello world" outputs as "example text"
+
+math: x, /, +, -
+
+# IF, THEN, ELSE
+
+this part is very simple, the IF statement represents true/false values for instance IF 5 == 6 THEN PRINT("Hello world") of course this isnt a true statement so that is when we deploy the ELSE statement the complete code would look like this: IF 5 == 6 THEN PRINT("Hello world") ELSE PRINT("5 is not the same as 6")
+
+
+
 
 
